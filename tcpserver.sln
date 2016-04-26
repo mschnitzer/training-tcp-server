@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tcpserver", "tcpserver.csproj", "{51931D36-6A4E-480E-94DB-DBB5173BD07E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tcpclient", "..\tcpclient\tcpclient.csproj", "{5ADCC374-7DB5-48CE-8235-4D81E2AE7D5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51931D36-6A4E-480E-94DB-DBB5173BD07E}.Debug|x86.ActiveCfg = Debug|x86
+		{51931D36-6A4E-480E-94DB-DBB5173BD07E}.Debug|x86.Build.0 = Debug|x86
+		{51931D36-6A4E-480E-94DB-DBB5173BD07E}.Release|x86.ActiveCfg = Release|x86
+		{51931D36-6A4E-480E-94DB-DBB5173BD07E}.Release|x86.Build.0 = Release|x86
+		{5ADCC374-7DB5-48CE-8235-4D81E2AE7D5D}.Debug|x86.ActiveCfg = Debug|x86
+		{5ADCC374-7DB5-48CE-8235-4D81E2AE7D5D}.Debug|x86.Build.0 = Debug|x86
+		{5ADCC374-7DB5-48CE-8235-4D81E2AE7D5D}.Release|x86.ActiveCfg = Release|x86
+		{5ADCC374-7DB5-48CE-8235-4D81E2AE7D5D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
